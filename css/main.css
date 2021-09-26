@@ -1,18 +1,35 @@
 #header{
-    background-color:rgb(49, 67, 80);
+    background-color:rgb(40, 53, 63);
 }
 #header h1{
     color:white;
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
 }
 #header h3{
-    color:#0f88e2;
+    color:#1c5e91;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
 }
 #header p{
-    color:white;
+    color: white;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
 }
 #contacts{
-   background-color:#1c3344;
+   background-color:#101c25;
+   text-align:center;
 }
 #contacts a{
     color:white;
+}
+#
+#EDUCATION h2{ 
+    color:#1c5e91;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;  
 }
