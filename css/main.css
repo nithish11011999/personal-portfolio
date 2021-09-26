@@ -1,0 +1,18 @@
+#header{
+    background-color:rgb(49, 67, 80);
+}
+#header h1{
+    color:white;
+}
+#header h3{
+    color:#0f88e2;
+}
+#header p{
+    color:white;
+}
+#contacts{
+   background-color:#1c3344;
+}
+#contacts a{
+    color:white;
+}
