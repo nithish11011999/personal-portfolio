@@ -11,7 +11,7 @@ body{
    display: flex; 
 }
 .fi{
-    border: solid 2px;
+    /* border: solid 2px; */
 }
 
 .w-70{
@@ -20,6 +20,7 @@ body{
 .w-30{
     width: 30%;
 }
+
 
 .header{
    background-color: white;
@@ -31,6 +32,7 @@ body{
     padding-top: 75px
 }
 .professional-title{
+    background-color: rgba(0, 128, 127, 1);
     height: 83px;
 }
 .professional-title h3{
@@ -40,7 +42,67 @@ body{
     padding-top: 26px
 }
 .main-section{
-    /* background-color: white; */
+    background-color: white;
     height: 1875px;
-    /* padding-left: 66px; */
+}
+#right-side{
+    background-color: rgba(245, 245, 245, 1);
+}
+.content-box-5 h3{
+    color: #439096;
+    font-size: 30px;
+    text-decoration: underline;
+    padding-left: 56px;
+    padding-top: 22px;
+}
+.content-box-5 .contact-no{
+    font-size: 28px;
+    padding-left: 92px;
+    padding-top: 29px
+}
+.content-box-5 .email-id{
+    font-size: 28px;
+    padding-left: 92px;
+    padding-top: 26px
+}
+.content-box-5 .location{
+    font-size: 28px;
+    padding-left: 92px;
+    padding-top: 28px;
+}
+.content-box-6 h3{
+    color: #439096;
+    font-size: 30px;
+    text-decoration: underline;
+    padding-top: 85px;
+    padding-left: 54px;
+    padding-bottom: 29px;
+}
+.content-box-tags-1 .content-box-tag{
+    font-size: 29px;
+    color: #ffff;
+    border-radius: 10px;
+    background-color: rgba(0, 134, 124, 1);
+    text-align: center;
+    width: 204px;
+    margin: auto;
+    height: 40px;
+}
+.content-box-7 h3{
+    color: #439096;
+    font-size: 30px;
+    text-decoration: underline;
+    padding-left: 56px;
+    padding-top: 22px;
+    padding-bottom: 29px;
+}
+.content-box-tags-2 .content-box-tag{
+    font-size: 29px;
+    color: #ffff;
+    border-radius: 10px;
+    background-color: rgba(0, 134, 124, 1);
+    text-align: center;
+    width: 204px;
+    margin: auto;
+    height: 40px;
 }
