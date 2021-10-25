@@ -14,13 +14,6 @@ body{
     /* border: solid 2px; */
 }
 
-/*.w-70{
-    width: 70%;
-}
-.w-30{
-    width: 30%;
-}*/
-
 .col-8{
     width: 66.6666%;
 }
@@ -43,6 +36,7 @@ body{
     background-color: rgba(0, 128, 127, 1);
     height: 83px;
 }
+/* left side starts */
 .professional-title h3{
     color: #ffff;
     font-size: 32px;
@@ -58,7 +52,7 @@ body{
     font-size: 29px;
     color: rgba(0, 125, 127, 1);
     padding-left: 58px;
-    padding-top: 23px;
+    padding-top: 28px;
     text-decoration: underline;
 }
 .content-box-1 .left-side{
@@ -74,42 +68,64 @@ body{
 }
 .content-box-1 .details{
     list-style-position: inside;
-    font-size: 24px;
+    font-size: 26px;
     padding-left: 65px;
     padding-top: 17px;
+    line-height: 34px;
 }
 
 .content-box-2 h3{
     font-size: 29px;
     color: rgba(0, 125, 127, 1);
     padding-left: 58px;
-    padding-top: 23px;
+    padding-top: 28px;
     text-decoration: underline;    
 }
 .content-box-2 h4{
     font-size: 26px;
     padding-left: 61px;
-    padding-top: 18px;
+    padding-top: 22px;
     font-weight: bolder;
 }
 .content-box-2 .details{
     list-style-position: inside;
-    font-size: 24px;
+    font-size: 26px;
     padding-left: 65px;
     padding-top: 18px;
+    line-height: 32px;
 }
 .content-box-3 h3{
     font-size: 29px;
     color: rgba(0, 125, 127, 1);
     padding-left: 58px;
-    padding-top: 23px;
+    padding-top: 28px;
+    text-decoration: underline;    
+}
+.content-box-3 h4{
+    font-size: 26px;
+    padding-left: 61px;
+    padding-top: 22px;
+    font-weight: bolder;
+}
+.content-box-3 .details{
+    list-style-position: inside;
+    font-size: 26px;
+    padding-left: 65px;
+    padding-top: 18px;
+    line-height: 32px;
+}
+.content-box-3 h3{
+    font-size: 29px;
+    color: rgba(0, 125, 127, 1);
+    padding-left: 58px;
+    padding-top: 28px;
     text-decoration: underline;
 }
 .content-box-4 h3{
     font-size: 29px;
     color: rgba(0, 125, 127, 1);
     padding-left: 58px;
-    padding-top: 23px;
+    padding-top: 28px;
     text-decoration: underline;
 }
 .content-box-4 .left-side{
@@ -213,5 +229,5 @@ body{
 .content-box-8 p{
     font-size: 26px;
     padding-top: 18px;
-    padding-left: 32px;
+    padding-left: 52px;
 }
