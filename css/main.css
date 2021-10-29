@@ -17,6 +17,7 @@ body {
 .col-8 {
   width: 66.6666%;
 }
+
 .col-4 {
   width: 33.3333%;
 }
@@ -51,9 +52,14 @@ body {
   color: rgba(0, 125, 127, 1);
   padding-left: 58px;
   padding-top: 30px;
-  text-decoration: underline;
+  /* text-decoration: underline; */
 }
-
+.left-side-heading hr{
+  background-color: rgba(0, 125, 127, 1);
+  height: 2px;
+  margin: auto;
+}
+/* content-box-1 starts */
 .content-box-1 .left-side {
   font-size: 26px;
   display: inline-block;
@@ -72,7 +78,9 @@ body {
   padding-top: 17px;
   line-height: 34px;
 }
+/* content-box-1 ends */
 
+/* content-box-2 starts */
 .content-box-2 h4 {
   font-size: 26px;
   padding-left: 61px;
@@ -86,7 +94,9 @@ body {
   padding-top: 18px;
   line-height: 32px;
 }
+/* content-box-2 ends */
 
+/* content-box-3 starts */
 .content-box-3 h4 {
   font-size: 26px;
   padding-left: 61px;
@@ -100,7 +110,9 @@ body {
   padding-top: 18px;
   line-height: 32px;
 }
+/* content-box-3 ends */
 
+/* content-box-4 starts */
 .content-box-4 .left-side {
   font-size: 26px;
   display: inline-block;
@@ -137,44 +149,39 @@ body {
   display: inline-block;
   padding-left: 485px;
 }
+/* content-box-4 ends */
+
+/* right-side starts */
 #right-side {
   background-color: rgba(245, 245, 245, 1);
 }
 .right-side-heading {
   color: rgba(0, 125, 127, 1);
   font-size: 30px;
-  text-decoration: underline;
+  /* text-decoration: underline; */
   padding-left: 56px;
   padding-top: 30px;
 }
+.right-side-heading hr{
+  background-color: rgba(0, 125, 127, 1);
+  height: 2px;
+  margin: auto;
+}
+/* content-box-5 starts */
 .content-box-5 a {
   color: black;
   display: inline-block;
-  font-size: 25px;
+  font-size: 26px;
   padding-left: 70px;
   padding-top: 29px;
   text-decoration: none;
 }
-.content-box-5 .contact-no {
-  font-size: 25px;
-  padding-left: 70px;
-  padding-top: 29px;
+.content-box-5 i{
+  /* color: blue; */
 }
-.content-box-5 .email-id {
-  font-size: 25px;
-  padding-left: 70px;
-  padding-top: 26px;
-}
-.content-box-5 .location {
-  font-size: 25px;
-  padding-left: 70px;
-  padding-top: 28px;
-}
-.content-box-5 .linkedin {
-  font-size: 25px;
-  padding-left: 70px;
-  padding-top: 28px;
-}
+/* content-box-5 ends */
+
+/* content-box-7 starts */
 .content-box-tags-1 .content-box-tag {
   border: solid 15px #00807f;
   margin: 36px;
@@ -183,6 +190,7 @@ body {
   background-color: #00807f;
   border-radius: 10px;
 }
+/* content-box-7 ends */
 
 .content-box-8 p {
   font-size: 26px;
@@ -190,3 +198,4 @@ body {
   padding-left: 52px;
   line-height: 30px;
 }
+/* right-side ends */
